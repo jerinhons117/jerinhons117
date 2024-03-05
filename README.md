@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesus Barrios</h1>
+<h1 align="center">Hola 👋, Soy Jesus Barrios</h1>
 <h3 align="center">FULL-STACK Developer & Designer Caracas-Venezuela</h3>
 
 - 🔭 Actualmente estoy trabajando en **proyectos con JavaScript**
